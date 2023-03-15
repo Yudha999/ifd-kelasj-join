@@ -5,3 +5,5 @@
 1. [Ainan](https://github.com/ainandoo)
 2. [Edi](https://github.com/masedi54)
 3. [Muhammad Dzurrafiq Hikamy](https://github.com/rafiq08)
+4. [bernov](https://github.com/crustercrew)
+
