@@ -4,3 +4,4 @@
 
 1. [Ainan](https://github.com/ainandoo)
 2. [Edi](https://github.com/masedi54)
+3. [bernov](https://github.com/crustercrew)
