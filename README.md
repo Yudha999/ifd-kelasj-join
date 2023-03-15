@@ -3,4 +3,4 @@
 ## Daftar peserta pelatihan 
 
 1. [Ainan](https://github.com/ainandoo)
-2. [Muhammad Dzurrafiq Hikkamy](https://github.com/rafiq08)
+2. [Muhammad Dzurrafiq Hikamy](https://github.com/rafiq08)
